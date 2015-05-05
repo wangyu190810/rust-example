@@ -3,6 +3,7 @@ fn main(){
 	let origin_x = 0;
 	let origin_y = 0;
 
+	println!("origin x is {},y is {}",origin_x,origin_y);
 	struct Point{
 		x:i32,
 		y:i32
